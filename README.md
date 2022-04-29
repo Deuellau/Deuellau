@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Deuel Lau
-- 👀 I’m interested in data analytics/science, ML/AI/DL
+## Hello there
+Hi, I’m Deuel Lau
+Not sure what I would do with this, probably a data exploration and analysis dump.
 
 <!---
 Deuellau/Deuellau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
