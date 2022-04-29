@@ -1,5 +1,6 @@
-## Hello there
+## Hello there!!
 Hi, I’m Deuel Lau
+
 Not sure what I would do with this, probably a data exploration and analysis dump.
 
 <!---
