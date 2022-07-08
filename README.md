@@ -1,5 +1,5 @@
-## Hello there!!
-Hi, I’m Deuel
+## Hello there, I'm Deuel!!
+
 
 Not sure what I would do with this, probably a data exploration and analysis dump.
 
