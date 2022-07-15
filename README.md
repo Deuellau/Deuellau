@@ -1,4 +1,4 @@
-## Hello there, I'm Deuel 🐼
+## 🐼 Hello there, I'm Deuel
 
 📝 Currently learning about Python and R for Data Science and Analysis.  
 ☁️ Using this cloud repository to store notes and projects I've worked on.
