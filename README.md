@@ -1,7 +1,7 @@
 ## 🐼 Hello there, I'm Deuel
 
 📝 Currently learning about Python and R for Data Science and Analysis.  
-☁️ Using this cloud repository to store notes and projects I've worked on.
+☁️ Using this as a cloud repository to store notes and projects I've worked on.
 
 ## 📚 Projects
 | Project Name | Scope | Libraries | Description |
