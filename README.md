@@ -11,6 +11,10 @@
 <br>
 
 ## 📝 Notes
-| Topic | Data Analytics | Machine Learning |
-|---|---|---|
-| Sub-Topic | <!-- Data Analytics -->                                                                                                                                      <ul><li>[Numpy](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/2%20-%20NumPy.ipynb)</li>                                                                       <li>[Pandas](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/3%20-%20Pandas.ipynb)</li>                                                                     <li>[Seaborn](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/4%20-%20Seaborn.ipynb)</li></ul> |                                                                     <!-- Machine Learning -->                                                                                                                                    <ul><li>[Linear Regression](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/1%20-%20Linear%20Regression.ipynb)</li></ul>
+### Data Analytics
+[Numpy](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/2%20-%20NumPy.ipynb), 
+[Pandas](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/3%20-%20Pandas.ipynb), 
+[Seaborn](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/4%20-%20Seaborn.ipynb)
+
+### Machine Learning
+[Linear Regression](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/1%20-%20Linear%20Regression.ipynb)
