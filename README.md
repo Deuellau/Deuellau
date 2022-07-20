@@ -12,7 +12,7 @@
 
 ## 📝 Notes
 **Algorithms:**
-[Gradient Descent](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/1%20-%20Linear%20Regression.ipynb)
+[Gradient Descent](https://github.com/Deuellau/Python/blob/main/Algorithms/Gradient%20Descent.ipynb)
 
 **Data Analytics:**
 [NumPy](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/2%20-%20NumPy.ipynb), 
