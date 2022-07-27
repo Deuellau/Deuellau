@@ -20,4 +20,5 @@
 [Seaborn](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/4%20-%20Seaborn.ipynb)
 
 **Machine Learning:**
-[Linear Regression](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/1%20-%20Linear%20Regression.ipynb)
+[Linear Regression](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/1%20-%20Linear%20Regression.ipynb), 
+[Logistic Regression](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/2%20-%20Logistic%20Regression.ipynb)
