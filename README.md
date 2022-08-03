@@ -12,13 +12,14 @@
 
 ## 📝 Notes
 **Algorithms:**
-[Gradient Descent](https://github.com/Deuellau/Python/blob/main/Algorithms/Gradient%20Descent.ipynb)
+[Gradient Descent](https://github.com/Deuellau/Python/blob/main/Algorithms/Gradient%20Descent.ipynb).
 
 **Data Analytics:**
 [NumPy](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/2%20-%20NumPy.ipynb), 
 [Pandas](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/3%20-%20Pandas.ipynb), 
-[Seaborn](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/4%20-%20Seaborn.ipynb)
+[Seaborn](https://github.com/Deuellau/Python/blob/main/Data%20Analytics/4%20-%20Seaborn.ipynb).
 
 **Machine Learning:**
 [Linear Regression](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/1%20-%20Linear%20Regression.ipynb), 
-[Logistic Regression](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/2%20-%20Logistic%20Regression.ipynb)
+[Logistic Regression](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/2%20-%20Logistic%20Regression.ipynb),
+[K-Nearest Neighbours](https://github.com/Deuellau/Python/blob/main/Machine%20Learning/3%20-%20K-Nearest%20Neighbours.ipynb).
