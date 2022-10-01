@@ -12,4 +12,4 @@
 
 ## 📝 Notes
 
-**Python:** [DA](https://github.com/Deuellau/Python/tree/main/Data%20Analytics), [DS](https://github.com/Deuellau/Python/tree/main/Machine%20Learning), [Algo](https://github.com/Deuellau/Python/tree/main/Algorithms)
+**Python:** [DA](https://github.com/Deuellau/Python/tree/main/Data%20Analytics) [DS](https://github.com/Deuellau/Python/tree/main/Machine%20Learning) [Algo](https://github.com/Deuellau/Python/tree/main/Algorithms)
