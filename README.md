@@ -1,6 +1,6 @@
 ## 🐼 Hello there, I'm Deuel
 
-📝 Currently learning about Python and R for Data Science.  
+📝 Currently learning Python and R for Data Science.  
 ☁️ Using this as a cloud repository to store notes and projects I've worked on.
 
 ## 📚 Projects
