@@ -1,11 +1,11 @@
 ## 🐼 Hello there, I'm Deuel
 📝 Currently learning Python and R for Data Science.  
-☁️ Using this as a cloud repository to store notes and projects I've worked on.
-<br><br>
+<br>
 
 ## 📚 Projects
 💾 Project repository can be found [here](https://github.com/Deuellau/Projects/blob/main/README.md).
-<br><br>
+<br>
+<br>
 
 ## 🛠️ Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
